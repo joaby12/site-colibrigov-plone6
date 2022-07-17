@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer interface="plone_site.interfaces.IPLONE_SITELayer"
+         name="plone_site"
+  />
+</layers>
