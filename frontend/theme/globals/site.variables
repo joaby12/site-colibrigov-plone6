@@ -19,7 +19,7 @@
     Brand Colors
 --------------------*/
 
-@ploneBlue         : #2e84be;
+@ploneBlue         : #439756;
 @ploneGreen          : #2aa442;
 
 @primaryColor        : @ploneBlue;
