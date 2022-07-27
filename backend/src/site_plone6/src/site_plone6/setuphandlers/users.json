@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "joaby@colibrigov.com",
+      "properties": {
+        "fullname": "site_plone6",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "site_plone6"
+    }
+  ],
+    "team": [
+  ]
+}

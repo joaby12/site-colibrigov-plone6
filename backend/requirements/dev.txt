@@ -1,0 +1,2 @@
+-r unreleased.txt
+-e "src/site_plone6[test]"
